@@ -4,10 +4,4 @@
 
 Lista de personas interesadas:
 
-- MIguel Nieva @mikenieva
-- Omar Sainz
-- Walter Cordero
-- Alberto Bustillos
-- Jose Alvarez
-- Jesús Sayar
-- Luis Perez
+edicion2
