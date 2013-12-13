@@ -1,4 +1,13 @@
-equipos
-=======
+##Equipos de Comunidad Mejorando.la
 
-Toda la gente maravillosa y épica que quiere crear portafolios en equipo para 2014
+###La gente más interesante sabe GIT y están en GitHub
+
+Lista de personas interesadas:
+
+- MIguel Nieva @mikenieva
+- Omar Sainz
+- Walter Cordero
+- Alberto Bustillos
+- Jose Alvarez
+- Jesús Sayar
+- Luis Perez
